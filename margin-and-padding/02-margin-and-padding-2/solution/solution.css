@@ -42,7 +42,7 @@ We separated it out here to make it extra clear what has changed. */
   margin-top: 0;
   margin-bottom: 8px;
   font-size: 16px;
-  padding: 8px;
+  padding: 8px; 
 }
 
 .content {
