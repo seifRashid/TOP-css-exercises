@@ -6,8 +6,8 @@ As with the previous exercise, we've left a little more for you to do.
 
 ### Hints
 - You will need to change the flex-direction to push the footer down.
-- You will need to add some divs as containers to get things to line up correctly.
-- `flex-wrap` will help get the cards aligned correctly.
+- You will need to add some divs as containers to get things to line up correctly. 
+- `flex-wrap` will help get the cards aligned correctly.   
 -  Make sure you define how much space the cards should take up, in order for `flex-wrap` to work as intended.
 
 ## Desired outcome
@@ -33,3 +33,4 @@ Note: The emojis may instead show up as one or several text symbols (e.g. &#9734
 - The sidebar has 16px padding.
 - There is 32px padding around the 'cards' section.
 - The cards are arranged horizontally, but wrap to multiple lines when they run out of room on the page.
+ 
